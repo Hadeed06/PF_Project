@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Z\Desktop\PF_Project\Source.cpp(119,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Z\Desktop\PF_Project\Source.cpp(286,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Z\Desktop\PF_Project\Source.cpp(297,6): warning C4101: 'over': unreferenced local variable
+  PF_Project.vcxproj -> C:\Users\Z\Desktop\PF_Project\x64\Debug\PF_Project.exe

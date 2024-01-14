@@ -1,0 +1,22 @@
+Player [1]for team A isHadeed Rauf			Player [1]for team B isSalman 
+Player [2]for team A isAmmar			Player [2]for team B isTalha
+Player [3]for team A isAli			Player [3]for team B isHani
+Player [4]for team A isMuneeb			Player [4]for team B isHaider
+Player [5]for team A isKuzaima			Player [5]for team B isSamiullah
+Player [6]for team A isAhmed			Player [6]for team B isUmair
+Player [7]for team A isBhatti			Player [7]for team B isShehryar
+Player [8]for team A isFarzeen			Player [8]for team B isAnas
+Player [9]for team A ismubeen			Player [9]for team B isUsman
+Player [10]for team A isAlyan			Player [10]for team B isAshraf
+Player [11]for team A isQasim			Player [11]for team B isRizwan
+ 10
+ 10
+ 10
+ 10
+ 10
+ 10
+ 10
+ 10
+ 10
+ 10
+ 10
